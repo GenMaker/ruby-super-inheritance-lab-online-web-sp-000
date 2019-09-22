@@ -10,7 +10,7 @@ class ChattyStudent < Student
   def raise_hand
     counter = 0
     if counter < 11
-      super
+      "super"
     end
     # super
     # super
