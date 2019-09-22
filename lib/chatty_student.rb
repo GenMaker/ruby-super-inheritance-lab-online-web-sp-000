@@ -8,16 +8,19 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    super
-    super
-    super
-    super
-    super
-    super
-    super
-    super
-    super
-    super
+    counter = 0
+    if counter < 10
+      super
+    end
+    # super
+    # super
+    # super
+    # super
+    # super
+    # super
+    # super
+    # super
+    # super
   end
 
 
